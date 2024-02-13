@@ -1,0 +1,18 @@
+class Animal{
+    void cute(){
+        System.out.println("Dog is cute");
+    }
+}
+class Bird extends Animal{
+    void cutey(){
+        System.out.println("Bird is small");
+    }
+}
+class Main{
+public static void main(String args[]){
+    Bird b=new Bird();
+  
+   b.cutey();
+   b.cute();
+}
+}
