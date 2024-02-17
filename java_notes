@@ -1,0 +1,9 @@
+1. The Genesis of Java
+Java was created by James Gosling, Patrick Naughton, and Mike Sheridan at Sun Microsystems in the early 1990s. 
+Originally, it was developed for consumer electronic devices, but its platform-independent nature and object-oriented features made it suitable for internet programming.
+Java officially debuted in 1995 with the release of JDK 1.0. Since then, it has become one of the most popular programming languages, known for its simplicity, robustness, and security.
+
+2. Overview of Java
+Java is a high-level, object-oriented programming language known for its simplicity, platform independence, and security features.
+It follows the "Write Once, Run Anywhere" (WORA) principle, meaning that Java code can run on any device or platform that has a Java Virtual Machine (JVM). 
+Key features of Java include automatic memory management (garbage collection), strong type system, exception handling, and support for multi-threading.
